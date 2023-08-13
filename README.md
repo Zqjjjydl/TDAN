@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Code for [Topic Driven Adaptive Network for Cross-Domain Sentiment Classification]{https://www.sciencedirect.com/science/article/pii/S0306457322003314}.
+Code for [Topic Driven Adaptive Network for Cross-Domain Sentiment Classification](https://www.sciencedirect.com/science/article/pii/S0306457322003314).
 
 ## Requirements
 
